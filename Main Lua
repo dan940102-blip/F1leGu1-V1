@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/dan940102-blip/F1leGu1-V1/refs/heads/main/Main%20Lua'))()
 local Window = Rayfield:CreateWindow({ScriptID = "sid_2f3gg4clnehj",})
    Name = "F1leGu1 V1",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
